@@ -1,4 +1,4 @@
 def main():
     print("Acesta este textul care trebuie printat")
-
+    print("Aici este a 2 modificare facuta")
 main()
